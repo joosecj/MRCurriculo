@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: Resume
-  profiles:
-    active: test
