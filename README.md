@@ -1,4 +1,4 @@
-<h1 align="center">Curriculu</h1>
+<h1 align="center">Curriculum</h1>
 
 <p align='center'> 
     <img src="https://img.shields.io/badge/Spring_Boot  V3.0M5-F2F4F9?style=for-the-badge&logo=spring-boot"/>
