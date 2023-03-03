@@ -4,11 +4,11 @@
     <img src="https://img.shields.io/badge/Spring_Boot  V3.0M5-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 </p>
 
-Em construção
+Em construção....
 
 <h2>Veja o projeto</h2>
 
-Experimente live demo completa [aqui]().
+Experimente live demo completa [aqui]()
 
 #### Backend
 ![Bakcend]()
